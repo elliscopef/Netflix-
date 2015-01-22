@@ -44,7 +44,6 @@ suggested movie actor keyword searching try:
              Jennifer Lawrence
              George Clooney
 suggested movie title search try: 
-               
              The Hunger Games
              Interstellar
 
