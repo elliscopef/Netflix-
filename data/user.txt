@@ -1,0 +1,20 @@
+BEGIN elliscopef
+NAME:Elliscope Fang
+MOVIE: Interstellar
+BEGIN QUEUE
+The Hunger Games
+City Lights
+Gravity
+Guardians of the Galaxy
+The Lord of the Rings: The Return of the King
+The Hobbit: The Desolation of Smaug
+City Lights
+Battlefield Earth
+END QUEUE
+BEGIN RATINGS
+2 The Shawshank Redemptio
+1 Battlefield Eart
+3 Gravit
+4 The Lord of the Rings: The Return of the King
+END RATINGS
+END

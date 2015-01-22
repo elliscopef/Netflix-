@@ -1,0 +1,54 @@
+BEGIN Interstellar
+KEYWORD: Mystery
+KEYWORD: Action
+KEYWORD: NASA
+KEYWORD: wormhole 
+KEYWORD: space
+ACTOR:Michael Caine
+ACTOR:Anne Hathaway
+ACTOR:Matthew McConaughey
+END
+BEGIN The Hunger Games
+KEYWORD: fiction
+KEYWORD: Suzanne Collins
+KEYWORD: Panem
+KEYWORD: tributes
+ACTOR:Jennifer Lawrence
+ACTOR:Josh Hutcherson
+ACTOR:Liam Hemsworth
+END
+BEGIN Guardians of the Galaxy
+KEYWORD: Fantasy
+KEYWORD: Action
+KEYWORD: space
+ACTOR:Chris Pratt
+ACTOR:Vin Diesel
+ACTOR:Zoe Saldana
+END
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR:Cary Elwes
+ACTOR:Mandy Patinkin
+ACTOR:Wallace Shawn
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR:Raj Kumar Yadav
+ACTOR:Patralekha
+ACTOR:Manav Kaul
+END
+BEGIN Gravity
+KEYWORD: Drama film
+KEYWORD: Thriller
+KEYWORD: space
+KEYWORD: Earth
+ACTOR:George Clooney
+ACTOR:Sandra Bullock
+ACTOR:Ed Harris
+END
+  
